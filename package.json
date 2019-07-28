@@ -1,0 +1,9 @@
+{
+  "name": "str2travis",
+  "version": "0.0.1",
+  "description": "add '\\'s for travis Environment Variables",
+  "main": "str2travis.js",
+  "repository": "https://github.com/zaoqi/str2travis.git",
+  "author": "zaoqi <zaomir@outlook.com>",
+  "license": "AGPL-3.0-or-later"
+}
